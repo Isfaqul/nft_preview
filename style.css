@@ -139,6 +139,7 @@ hr {
 .cntr-creator-details {
   display: flex;
   align-items: center;
+  margin-bottom: 1em;
 }
 
 .creator-avatar {
@@ -179,5 +180,8 @@ hr {
     font-size: 2.2rem;
     font-weight: 600;
     margin: 1em 0 0.545em 0;
+  }
+  .cntr-creator-details {
+    margin-bottom: 0;
   }
 }
