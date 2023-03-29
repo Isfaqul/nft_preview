@@ -42,6 +42,7 @@ main {
 .nft-img {
   width: 100%;
   border-radius: 0.725em;
+  display: block;
 }
 
 .ctnr-nft-img {
